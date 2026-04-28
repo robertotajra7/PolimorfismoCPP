@@ -1,6 +1,6 @@
 # Atividade de POO em C++
 
-Este projeto contém implementações básicas de conceitos de polimorfismo em C++.
+Este projeto contém implementações de polimorfismo em C++.
 
 ## Estrutura
 
